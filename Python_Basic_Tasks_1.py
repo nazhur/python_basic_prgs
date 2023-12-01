@@ -1,4 +1,4 @@
-##TASK-2 26/OCT/2023
+##TASK-1
 
 ## 1. Write a python program to sum all the items in a list?
 
