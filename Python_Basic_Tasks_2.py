@@ -1,4 +1,4 @@
-## TASK-4 30 OCT
+## TASK-2
 
 
 ## 1.Write a Python program to count the number of even and odd numbers in a series of numbers?
