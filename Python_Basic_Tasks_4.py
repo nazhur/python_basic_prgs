@@ -25,6 +25,7 @@ for i in range(n-1,0,-1):
 
 # 2. Write a Python program that accepts a word from the user and reverses it.
 
+#  method - 1 using string slicing
 x= input("Enter the string to reverse: ")
 
 reverse_x = x[::-1] ##index slicing
