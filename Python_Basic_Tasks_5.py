@@ -34,17 +34,17 @@ print("celsius to Fahrenheit is: ", rounded_fah)
 # buzz
 
 
-for FizzBizz in range(1,51):
-    if FizzBizz %3 ==0 and FizzBizz %5 ==0:
+for i in range(1,51):
+    if i %3 ==0 and i %5 ==0:
         print("FizzBizz")
         continue
-    elif FizzBizz %3==0:
+    elif i %3==0:
         print("Fizz")
         continue
-    elif FizzBizz %5==0:
+    elif i %5==0:
         print("Buzz")
         continue
-    print(FizzBizz)  
+    print(i)  
 
 
 
